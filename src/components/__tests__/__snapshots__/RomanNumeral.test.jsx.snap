@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders invalid input correctly 1`] = `
+<h1>
+  Your parameters are invalid
+</h1>
+`;
+
+exports[`renders valid input correctly 1`] = `
+<h1>
+  Roman Numeral for 
+  999
+   is 
+  CMXCIX
+</h1>
+`;
+
+exports[`renders when no location exists 1`] = `
+<h1>
+  Your parameters are invalid
+</h1>
+`;
